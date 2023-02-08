@@ -1,0 +1,14 @@
+Introduction
+Give a short introduction to the project, your approach and your final result.
+
+Data
+Describe the data and any preprocessing you did to it.
+
+Approach
+Describe which algorithm you used and what functions and terminals you used if you used GP, and what grammar you used if you used GE. If you played around with them and have multiple sets (which you quite probably do), show all of them. Also, talk about your parameters; again, if you used multiple sets/values, show them here.
+
+Results
+Show your results, ideally comparing the different set ups you looked at. Finally, show your best individual overall.
+
+Conclusion
+Wrap up the report by summarising what you did and what, if anything, you would have done differently or would do if you had more time.
